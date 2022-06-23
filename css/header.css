@@ -1,0 +1,30 @@
+header {
+  height: 800px;
+  background: linear-gradient(
+      287deg,
+      #450e4b 0%,
+      #3c0c41 24% rgba(207, 0, 99, 0) 100%;
+    ),
+    #cf0063;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-around;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  width: 500px;
+}
+
+.logo {
+  height: 43px;
+  display: flex;
+}
