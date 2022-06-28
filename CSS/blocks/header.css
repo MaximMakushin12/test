@@ -1,31 +1,25 @@
 .header {
   height: 800px;
-  background: linear-gradient(
-      287.15deg,
-      #450e4b 0%,
-      #3c0c41 24.48%,
-      rgba(207, 0, 99, 0) 100%
-    ),
-    #cf0063;
+  background: linear-gradient(287.15deg, #5f1168 0%, rgba(224, 46, 132, 0) 100%),
+    #cf0079;
 }
 .container {
   display: flex;
-  flex-direction: row;
   justify-content: space-around;
   align-items: center;
 }
-.logo {
-  height: 43px;
-  display: flex;
-}
-.menu {
+
+.klock {
   display: flex;
   justify-content: space-around;
-  font-weight: 400;
-  font-size: 15px;
+  font-weight: 420;
+  font-size: 16px;
   line-height: 20px;
-  width: 500px;
+  width: 390px;
+  color: #f1f1f1;
+}
 
-  color: #ffffff;
-  /* identical to box height, or 133% */
+.logo {
+  display: flex;
+  height: 34px;
 }

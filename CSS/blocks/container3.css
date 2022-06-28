@@ -1,21 +1,19 @@
-.container-3 {
+.container3 {
   height: 5219px;
   display: flex;
   flex-direction: column;
   margin-top: 80px;
 }
-.layer1 {
+.text1 {
   display: flex;
-  flex-direction: row;
   align-items: center;
   justify-content: space-around;
   column-gap: 195px;
 }
-.layer1a {
+.text1a {
   display: flex;
-  flex-direction: row;
 }
-.layer_a1 {
+.text_a1 {
   font-weight: 400;
   font-size: 12px;
   line-height: 20px;
@@ -24,7 +22,7 @@
 
   color: #a8a8a8;
 }
-.layer_a2 {
+.text_a2 {
   font-weight: 400;
   font-size: 38px;
   line-height: 48px;
@@ -34,7 +32,7 @@
 
   color: #000000;
 }
-.layer_a3 {
+.text_a3 {
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
@@ -47,13 +45,13 @@
 .img4 {
   margin-left: -40%;
 }
-.layer2 {
+.text2 {
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: space-around;
 }
-.layer_aa {
+.text_aa {
   margin-left: 144px;
   max-width: 330px;
 }
@@ -64,21 +62,21 @@
 .img6 {
   margin-left: -40%;
 }
-.otstup {
+.Aenean {
   margin-top: 160px;
 }
-.layer3 {
+.text3 {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   margin-top: 159px;
 }
-.layer3a {
+.text3a {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-.layer3a_zag {
+.text3a_zag {
   font-weight: 700;
   font-size: 18px;
   line-height: 24px;
@@ -88,7 +86,7 @@
 
   color: #000000;
 }
-.layer3a_tex {
+.text3a_tex {
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
@@ -99,18 +97,18 @@
 
   color: #6b6b6b;
 }
-.layer4 {
+.text4 {
   margin-top: 163px;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
 }
-.layer4a {
+.text4a {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-.layer4b {
+.text4b {
   font-weight: 400;
   font-size: 59px;
   line-height: 90px;
@@ -119,7 +117,7 @@
 
   color: #333333;
 }
-.layer4c {
+.text4c {
   font-weight: 700;
   font-size: 18px;
   line-height: 24px;
@@ -129,14 +127,14 @@
 
   color: #000000;
 }
-.layer5 {
+.text5 {
   margin-top: 170px;
 }
-.layer6 {
+.text6 {
   margin-top: 161px;
   margin-right: -40%;
 }
-.layer_aaa {
+.text_aaa {
   margin-top: 144px;
   font-weight: 400;
   font-size: 12px;
@@ -148,13 +146,13 @@
 
   color: #a8a8a8;
 }
-.layer7 {
+.text7 {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin-top: 162px;
 }
-.layer7a {
+.text7a {
   font-weight: 400;
   font-size: 24px;
   line-height: 40px;
@@ -166,13 +164,13 @@
   max-width: 700px;
   margin-top: 66px;
 }
-.layer8 {
+.text8 {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin-top: 17px;
 }
-.layer8b {
+.text8b {
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
@@ -182,7 +180,7 @@
 
   color: #6b6b6b;
 }
-.layer8c {
+.text8c {
   font-weight: 700;
   font-size: 16px;
   line-height: 30px;
@@ -193,32 +191,32 @@
   color: #6b6b6b;
   margin-left: 70px;
 }
-.layer8a {
+.text8a {
   display: flex;
   flex-direction: row;
   justify-content: center;
 }
-.layer8d {
+.text8d {
   width: 7px;
   height: 7px;
   background: #222222;
 }
-.layer8e {
+.text8e {
   width: 7px;
   height: 7px;
   background: rgba(34, 34, 34, 0.4);
   margin-left: 15px;
 }
-.layer8aa {
+.text8a1 {
   display: flex;
   flex-direction: row;
   justify-content: center;
   margin-top: 80px;
 }
-.layer9 {
+.text9 {
   margin-top: 142px;
   align-items: center;
 }
-.layer10 {
+.text10 {
   margin-top: 118px;
 }

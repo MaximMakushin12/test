@@ -1,18 +1,10 @@
 .body {
   width: 100%;
-  max-width: 1440px;
-  font-family: "Gothic A1", sans-serif;
+  max-width: 1895px;
+  font-family: "Gothic A1";
   color: #ffffff;
 }
 a {
-  color: #ffffff;
   text-decoration: none;
-}
-.animation:hover {
-  animation: image 0.5s forwards;
-}
-@keyframes image {
-  to {
-    transform: scale(1.15);
-  }
+  color: rgb(238, 229, 229);
 }
