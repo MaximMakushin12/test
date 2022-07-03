@@ -25,14 +25,11 @@
   font-weight: 400;
   font-size: 38px;
   line-height: 48px;
-
   text-align: center;
-
   color: #f1f1f1;
 }
 .container42 {
   display: flex;
-  flex-direction: row;
   justify-content: space-around;
   align-items: center;
   margin-top: 40px;
@@ -45,9 +42,6 @@
   color: #f1f1f1;
   height: 66px;
   width: 190px;
-  left: 0%;
-  right: 0%;
-  top: 0px;
   background: #fc0a7e;
   border-radius: 3px;
   border: none;
@@ -61,13 +55,9 @@
   line-height: 26px;
   text-align: center;
 
-  color: #f1f1f1 +;
+  color: #f1f1f1;
   height: 66px;
   width: 190px;
-  left: 0%;
-  right: 0%;
-  top: 0px;
-
   background: none;
   border-radius: 3px;
   border: rgb(179, 179, 179) solid 1px;
